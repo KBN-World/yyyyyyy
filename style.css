@@ -1,0 +1,27 @@
+#heading {
+    text-align: center;
+    box-shadow: 10px;
+    border-radius: 29%;
+    border-color: khaki;
+    border-style: double;
+    border-left: 30px;
+    border-right: 30px;
+    border-top: 30px;
+    border-bottom: 30px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: burlywood;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 5px solid rgb(116, 254, 10);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px goldenrod;
+}
